@@ -10,10 +10,6 @@ but it no longer appears to be maintained (and has disappeared from github).
 $ npm install --save version-compare.js
 ```
 
-```bash
-$ bower install --save version-compare.js
-```
-
 ## Usage
 
 ```js
