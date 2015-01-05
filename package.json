@@ -1,5 +1,5 @@
 {
-  "name": "version-compare",
+  "name": "version-compare.js",
   "version": "0.0.0",
   "description": "Compare semver version numbers",
   "license": "MIT",
